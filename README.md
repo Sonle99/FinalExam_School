@@ -1,2 +1,2 @@
-# FinalExam_School
-This repository contain the final exam in university
+# Project
+A bundle of small front-end projects
